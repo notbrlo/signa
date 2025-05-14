@@ -4,7 +4,9 @@
 
 This branch was made with some (hacky) changes I made locally to get this to run on my laptop (with a Quadro RTX 5000).
 
-Note that there are many innacuracies between this brancha and the actual version. This was mostly done for exploration and for some fun. 
+Note that there are many differences between this branch and the actual version. As I am using different hardware, my results are likely different than what the original author found.
+
+This was mostly done for exploration and for some fun. **Don't assume anything that is in this branch will be truthful or accurate.**
 
 I'm using [micromamba](https://mamba.readthedocs.io/en/latest/index.html) to manage my installation.
 
