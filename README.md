@@ -2,6 +2,20 @@
 
 ----
 
+This branch was made with some (hacky) changes I made locally to get this to run on my laptop (with a Quadro RTX 5000).
+
+Note that there are many innacuracies between this brancha and the actual version. This was mostly done for exploration and for some fun. 
+
+I'm using [micromamba](https://mamba.readthedocs.io/en/latest/index.html) to manage my installation.
+
+You should be able to get a similar enviromnent with the following command:
+
+```
+micromamba env create -n brlo-signa tensorflow-gpu jupyterlab pytorch scikit-learn -c conda-forge
+```
+
+----
+
 Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the github repository for my book, **[The StatQuest Illustrated Guide to Neural Networks and AI](https://www.amazon.com/dp/B0DRS71QVQ)**. Here are the coding tutorials associated with each chapter. Enjoy!
 
 
