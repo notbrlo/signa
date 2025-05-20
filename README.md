@@ -2,7 +2,7 @@
 
 ----
 
-This branch was made with some (hacky) changes I made locally to get this to run on my laptop (with a Quadro RTX 5000).
+This branch was made with some (hacky) changes I made locally to get this to run on my laptops (with NVIDIA GPUs).
 
 Note that there are many differences between this branch and the actual version. As I am using different hardware, my results are likely different than what the original author found.
 
